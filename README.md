@@ -4,4 +4,10 @@ I'll be creating tables using DB Browser for SQLite to write querys and modify t
 
 ## Creating Tables
 
-There are 4 tablees 
+There are 4 tables in this project with no data.
+- Team
+- Player
+- Court
+- Schedule
+
+Eeach table has differenet columns with different fields and some of them have constrains to avoid bad input at the moment to load data
