@@ -1,8 +1,8 @@
-# Creating-Tables-using-DB-Browser-for-SQLite
+# Creating Tables using DB Browser for SQLite.
 
-I'll be creating tables using DB Browser for SQLite to write querys and modify them to complete the project.This is a simple project where I want to
+I'll be creating tables using DB Browser for SQLite to write querys and modify them to complete the project.This is a simple project where I want to create tables for a Database using simple SQL syntax.
 
-## Creating Tables
+## Creating Tables.
 
 There are 4 tables in this project with no data.
 - Team
